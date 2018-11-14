@@ -1,2 +1,0 @@
-# WAT
-Web Application Testing
